@@ -6,3 +6,4 @@ dev
 commit1
 commit2
 stash
+rebase
